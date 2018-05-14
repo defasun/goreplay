@@ -8,7 +8,7 @@
 
 ## About
 
-GoReplay is the simplest and safest way to test your app using real traffic before you put it into production.
+GoReplay is the simplest and safest way to test your app using real traffic before you put it into production. Minor test change
 
 As your application grows, the effort required to test it also grows exponentially. GoReplay offers you the simple idea of reusing your existing traffic for testing, which makes it incredibly powerful. Our state of art technique allows you to analyze and record your application traffic without affecting it. This eliminates the risks that come with putting a third party component in the critical path. 
 
